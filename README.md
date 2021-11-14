@@ -4,7 +4,9 @@
 springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 
 2021-11-14 작업
+
 form 유효값 체크할 수 있는 Validator 작성
+
 jpa를 이용해서 db에 데이터 추가,수정
 
 
