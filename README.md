@@ -7,6 +7,7 @@ springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 form 유효값 체크할 수 있는 Validator 작성
 jpa를 이용해서 db에 데이터 추가,수정
 
+
 2021-11-12 작업
 
 Spring Boot에서 MariaDB 데이터소스 설정
