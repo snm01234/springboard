@@ -3,6 +3,13 @@
 사용기술
 springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 
+2021-11-15 작업
+
+jpa를 이용해서 db 데이터 조작할 수 있는 컨트롤러 생성
+
+postman으로 http request로 crud 동작 확인
+
+
 2021-11-14 작업
 
 form 유효값 체크할 수 있는 Validator 작성
