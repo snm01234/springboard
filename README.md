@@ -4,6 +4,12 @@
 
 springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 
+2021-11-16 작업
+
+사용자 테이블 만들고 Spring Security를 적용하여 인증 및 권한 처리
+
+로그인, 회원가입, 로그아웃, 페이지 권한 처리
+
 2021-11-15 작업
 
 jpa를 이용해서 db 데이터 조작할 수 있는 컨트롤러 생성
