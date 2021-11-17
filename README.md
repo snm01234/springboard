@@ -4,6 +4,10 @@
 
 springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 
+2021-11-17 작업
+
+@OneToMany, @ManyToOne annotation 이용해서 양방향 매핑 설정
+
 2021-11-16 작업
 
 사용자 테이블 만들고 Spring Security를 적용하여 인증 및 권한 처리
