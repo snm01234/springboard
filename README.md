@@ -4,6 +4,10 @@
 
 springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 
+2021-11-18 작업
+
+fetchtype eager/lazy 테스트, N+1 문제 테스트
+
 2021-11-17 작업
 
 @OneToMany, @ManyToOne annotation 이용해서 양방향 매핑 설정
