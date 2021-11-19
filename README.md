@@ -4,6 +4,14 @@
 
 springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
 
+2021-11-19 작업
+
+사용자 권한에 따라 UI 다르게 구성하기
+
+사용자 권한에 따라 API 제한 테스트
+
+@Secured로 접근 권한 설정
+
 2021-11-18 작업
 
 fetchtype eager/lazy 테스트, N+1 문제 테스트
