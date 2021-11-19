@@ -1,8 +1,16 @@
 # springboot 게시판 제작예정
 <br>
-사용기술
+개발환경
 
-springboot, thymeleaf, lombok, bootstrap, hibernate, mariadb ..etc
+> front-end:
+
+- bootstrap, thymeleaf
+
+>back-end:
+- springboot, lombok, openjdk 1.8, jpa hibernate, mariadb, maven
+
+
+------------
 
 2021-11-19 작업
 
