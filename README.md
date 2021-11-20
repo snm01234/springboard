@@ -9,11 +9,15 @@
 >back-end:
 - springboot, lombok, openjdk 1.8, jpa hibernate, mariadb, maven
 
+--------------
+
 토이프로젝트를 진행하면서 배운 점:
+
+spring boot로 maven 등 초기 설정할 것들을 쉽게 설정하고 프로젝트를 진행할 수 있다는 것을 이해함.
 
 Spring Security를 적용하여 로그인 시 보안처리나 권한부여 등을 쉽게 할 수 있는 것을 알았고, 
 
-jpa로 orm매핑하는 구조같은 걸 더 배울 수 있었다.
+jpa로 orm(객체와 관계형 DB의 매핑) 하는 구조같은 걸 더 잘 이해할 수 있었다.
 
 
 ------------
