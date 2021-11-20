@@ -9,6 +9,12 @@
 >back-end:
 - springboot, lombok, openjdk 1.8, jpa hibernate, mariadb, maven
 
+토이프로젝트를 진행하면서 배운 점:
+
+Spring Security를 적용하여 로그인 시 보안처리나 권한부여 등을 쉽게 할 수 있는 것을 알았고, 
+
+jpa로 orm매핑하는 구조같은 걸 더 배울 수 있었다.
+
 
 ------------
 
